@@ -1,0 +1,28 @@
+# salmon (alignment-based) v0.4.2
+# [ program ] => salmon 
+# [ command ] => quant 
+# [ libType ] => { IU }
+# [ alignments ] => { /Users/harrietalexander/Analysis/Transrate/example_data/transrate_results/transcripts/left.fq.right.fq.transcripts.bam }
+# [ targets ] => { /Users/harrietalexander/Analysis/Transrate/example_data/transcripts.fa }
+# [ threads ] => { 8 }
+# [ sampleOut ] => { }
+# [ sampleUnaligned ] => { }
+# [ output ] => { . }
+# [ useVBOpt ] => { }
+# [ useErrorModel ] => { }
+# Name	Length	TPM	NumReads
+NM_001168316	2283	10886.6	133.201
+NM_174914	2385	123389	1577.15
+NR_031764	1853	5402.76	53.6536
+NM_004503	1681	36869.6	332.157
+NM_006897	1541	80400.5	664.001
+NM_014212	2037	5038.92	55.0092
+NM_014620	2300	49448.4	609.519
+NM_017409	1959	4477.57	47.0093
+NM_017410	2396	3271.54	42.0094
+NM_018953	1612	26392.2	228.007
+NM_022658	2288	398052	4880.94
+NM_153633	1666	38483.6	343.603
+NM_153693	2072	6460.54	71.7407
+NM_173860	849	211426	961.997
+NR_003084	1640	0	0
